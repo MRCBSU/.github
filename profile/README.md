@@ -1,6 +1,9 @@
-## Hi there 👋
+## Hello 👋
 
-You're currently looking at a placeholder, it'll be different soon!
+The Medical Research Council Biostatistics Unit carries out a range of applied statsitcal research. This github organisation exists to colloate software and resources for unit members and the wider community. 
+
+### Maintainer
+@pc494 - Phillip Crout, The Unit's Knowledge Transfer Facilitator
 <!--
 
 **Here are some ideas to get you started:**
