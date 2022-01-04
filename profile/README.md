@@ -1,6 +1,9 @@
-## Hello 👋
+## Welcome 👋
 
 The Medical Research Council Biostatistics Unit carries out a range of applied statstical research. This github organisation exists to collate software and resources for unit members and the wider community. 
+
+### Forks
+These open source, CRAN (or bioconductor) compliant R packages have been forked to this repo for *archiving* and *preservation* reasons. Issues and Pull Requests should still be directed to the repo from which the fork emmenates.
 
 ### Maintainer
 @pc494 - Phillip Crout, The Unit's Knowledge Transfer Facilitator
