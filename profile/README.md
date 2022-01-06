@@ -8,7 +8,7 @@ These open source, CRAN (or bioconductor) compliant R packages have been forked 
 ### MRC BSU elsewhere on github & the public internet
 
 - Chris Wallace (Statistics Genomics) has a software listing avaliable [here](https://chr1swallace.github.io/code/).
-- The Burgess group (Mendelain Randomization) maintain their own code listing [here](https://mendelianrandomization.com/index.php/software-code).
+- The Burgess group (Mendelian Randomization) maintain their own code listing [here](https://mendelianrandomization.com/index.php/software-code).
 - The github account [dose-finding](https://github.com/dose-finding) provides repositories supporting some of the work within the DART theme.
 
 ### Maintainer
