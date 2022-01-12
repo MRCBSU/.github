@@ -1,15 +1,15 @@
 ## Welcome 👋
 
-The Medical Research Council Biostatistics Unit carries out a range of applied statistical research. This github organisation exists to collate software and resources for unit members and the wider community. 
+The Medical Research Council Biostatistics Unit (MRC BSU) carries out a range of applied statistical research. This github organisation exists to collate software and resources for unit members and the wider community. 
 
 ### Forks
 These open source, CRAN (or bioconductor) compliant R packages have been forked to this repo for **archiving** and **discoverability** reasons. Issues and Pull Requests should still be directed to the repo from which the fork emmenates.
 
 ### MRC BSU elsewhere on github & the public internet
 
-- Chris Wallace (Statistics Genomics) has a software listing avaliable [here](https://chr1swallace.github.io/code/).
+- Chris Wallace (Statistical Genomics) has a software listing avaliable [here](https://chr1swallace.github.io/code/).
 - The Burgess group (Mendelian Randomization) maintain their own code listing [here](https://mendelianrandomization.com/index.php/software-code).
-- The github account [dose-finding](https://github.com/dose-finding) provides repositories supporting some of the work within the DART theme.
+- The github account [dose-finding](https://github.com/dose-finding) provides repositories supporting some of the work within the Design and Analysis of Randomised Trials theme. Some details of their work can be found [here](https://www.mrc-bsu.cam.ac.uk/research-and-development/dart-design-and-analysis-of-randomised-trials/).
 
 ### Maintainer
 @pc494 - Phillip Crout, The Unit's Knowledge Transfer Facilitator
