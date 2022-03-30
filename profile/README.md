@@ -11,6 +11,12 @@ The Medical Research Council Biostatistics Unit (MRC BSU) carries out a range of
 ### Maintainer
 @pc494 - Phillip Crout, The Unit's Knowledge Transfer Facilitator
 
+### New Grid (WIP)
+
+| Name | version | Last Updated | Downloads
+-------|---------|--------------|----------
+| [coloc](https://cran.r-project.org/package=coloc) | ![](https://www.r-pkg.org/badges/version/coloc) | ![](https://www.r-pkg.org/badges/ago/coloc) | ![](https://cranlogs.r-pkg.org/badges/coloc)
+
 <!--
 
 **Here are some ideas to get you started:**
