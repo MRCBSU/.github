@@ -11,10 +11,13 @@ The Medical Research Council Biostatistics Unit (MRC BSU) carries out a range of
 -------|---------|--------------|----------
 | [coloc](https://cran.r-project.org/package=coloc) | ![](https://www.r-pkg.org/badges/version/coloc) | ![](https://www.r-pkg.org/badges/ago/coloc) | ![](https://cranlogs.r-pkg.org/badges/coloc)|
 | [msm](https://cran.r-project.org/package=msm) | ![](https://www.r-pkg.org/badges/version/msm) | ![](https://www.r-pkg.org/badges/ago/msm) | ![](https://cranlogs.r-pkg.org/badges/msm)|
+| [bcrm](https://cran.r-project.org/package=bcrm) | ![](https://www.r-pkg.org/badges/version/bcrm) | ![](https://www.r-pkg.org/badges/ago/bcrm) | ![](https://cranlogs.r-pkg.org/badges/bcrm)|
+| [curtailment](https://cran.r-project.org/package=curtailment) | ![](https://www.r-pkg.org/badges/version/curtailment) | ![](https://www.r-pkg.org/badges/ago/curtailment) | ![](https://cranlogs.r-pkg.org/badges/curtailment)|
 
 <!--
 
 **Here are some ideas to get you started:**
+curtailment
 
 🙋‍♀️ A short introduction - what is your organization all about?
 🌈 Contribution guidelines - how can the community get involved?
