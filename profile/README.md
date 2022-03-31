@@ -5,7 +5,7 @@ The Medical Research Council Biostatistics Unit (MRC BSU) carries out a range of
 ### Maintainer
 @pc494 - Phillip Crout, The Unit's Knowledge Transfer Facilitator
 
-### Forked Repositories (Work in progress)
+### Forked Repositories
 
 | Name | version | Last Updated | Downloads|
 -------|---------|--------------|----------
@@ -17,7 +17,6 @@ The Medical Research Council Biostatistics Unit (MRC BSU) carries out a range of
 <!--
 
 **Here are some ideas to get you started:**
-curtailment
 
 🙋‍♀️ A short introduction - what is your organization all about?
 🌈 Contribution guidelines - how can the community get involved?
