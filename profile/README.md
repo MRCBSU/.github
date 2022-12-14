@@ -4,8 +4,8 @@ The Medical Research Council (MRC) [Biostatistics Unit](https://www.mrc-bsu.cam.
 
 ### Maintainers
 
-[@pc494](https://github.com/pc494) - Phillip Crout, The Unit's Knowledge Transfer Facilitator
-[@chr1swallace](https://github.com/chr1swallace) - Chris Wallace, Programme Leader
+- [@pc494](https://github.com/pc494) - Phillip Crout, The Unit's Knowledge Transfer Facilitator
+- [@chr1swallace](https://github.com/chr1swallace) - Chris Wallace, Programme Leader
 
 ### Open code to support open science
 
