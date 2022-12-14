@@ -15,7 +15,7 @@ As well as software packages, we also provide code used in applied analyses to s
 
 ### Forked Repositories
 
-For the full list of repositories, click "Repositories" above. Some example R packages are also listed below.
+For the full list of repositories, click "Repositories" above. Some popular R packages are also listed below.
 
 | Name | version | Last Updated | Downloads|
 -------|---------|--------------|----------
