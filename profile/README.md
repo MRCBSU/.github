@@ -2,10 +2,10 @@
 
 The Medical Research Council (MRC) [Biostatistics Unit](https://www.mrc-bsu.cam.ac.uk) (BSU)'s mission is to promote the development and application of innovative statistical methods in the health sciences for the improvement of health.  This github organisation exists to collate software and code for unit members and the wider community. These open source, CRAN (or bioconductor) compliant R packages have been forked to this repo for **archiving** and **discoverability** reasons. Issues and Pull Requests should still be directed to the repo from which the fork emmenates.
 
-### Maintainers
+<!--- ### Maintainers
 
 - [@pc494](https://github.com/pc494) - Phillip Crout, The Unit's Knowledge Transfer Facilitator
-- [@chr1swallace](https://github.com/chr1swallace) - Chris Wallace, Programme Leader
+- [@chr1swallace](https://github.com/chr1swallace) - Chris Wallace, Programme Leader -->
 
 ### Open code to support open science
 
@@ -15,7 +15,7 @@ As well as software packages, we also provide code used in applied analyses to s
 
 ### Forked Repositories
 
-For the full list of repositories, click "Repositories" above. Some popular R packages are also listed below.
+For the full list of repositories, click ["Repositories"](https://github.com/orgs/MRCBSU/repositories) above. Some popular R packages are also listed below.
 
 | Name | version | Last Updated | Downloads|
 -------|---------|--------------|----------
