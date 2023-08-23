@@ -15,11 +15,16 @@ As well as software packages, we also provide code used in applied analyses to s
 
 ### Forked Repositories
 
-For the full list of repositories, click ["Repositories"](https://github.com/orgs/MRCBSU/repositories) above. Some popular R packages are also listed below.
+For the full list of repositories, click ["Repositories"](https://github.com/orgs/MRCBSU/repositories) above. 
+
+## R packages from CRAN
+
+While github may hold the latest and greatest, package versions archived to standard repositories are generally the more stable versions. Some of the more popular R packages available from CRAN are listed below.
 
 | Name | version | Last Updated | Downloads|
 -------|---------|--------------|----------
 | [msm](https://cran.r-project.org/package=msm) | ![](https://www.r-pkg.org/badges/version/msm) | ![](https://www.r-pkg.org/badges/ago/msm) | ![](https://cranlogs.r-pkg.org/badges/msm)|
+| [msm](https://cran.r-project.org/package=MendelianRandomisation) | ![](https://www.r-pkg.org/badges/version/MendelianRandomisation) | ![](https://www.r-pkg.org/badges/ago/MendelianRandomisation) | ![](https://cranlogs.r-pkg.org/badges/MendelianRandomisation)|
 | [coloc](https://cran.r-project.org/package=coloc) | ![](https://www.r-pkg.org/badges/version/coloc) | ![](https://www.r-pkg.org/badges/ago/coloc) | ![](https://cranlogs.r-pkg.org/badges/coloc)|
 | [bcrm](https://cran.r-project.org/package=bcrm) | ![](https://www.r-pkg.org/badges/version/bcrm) | ![](https://www.r-pkg.org/badges/ago/bcrm) | ![](https://cranlogs.r-pkg.org/badges/bcrm)|
 | [crmPack](https://cran.r-project.org/package=crmPack) | ![](https://www.r-pkg.org/badges/version/crmPack) | ![](https://www.r-pkg.org/badges/ago/crmPack) | ![](https://cranlogs.r-pkg.org/badges/crmPack)|
