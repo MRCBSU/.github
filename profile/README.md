@@ -24,12 +24,15 @@ While github may hold the latest and greatest, package versions archived to stan
 | Name | version | Last Updated | Downloads|
 -------|---------|--------------|----------
 | [msm](https://cran.r-project.org/package=msm) | ![](https://www.r-pkg.org/badges/version/msm) | ![](https://www.r-pkg.org/badges/ago/msm) | ![](https://cranlogs.r-pkg.org/badges/msm)|
+| [flexsurv](https://cran.r-project.org/package=flexsurv) | ![](https://www.r-pkg.org/badges/version/flexsurv) | ![](https://www.r-pkg.org/badges/ago/flexsurv) | ![](https://cranlogs.r-pkg.org/badges/flexsurv)|
 | [MendelianRandomization](https://cran.r-project.org/package=MendelianRandomization) | ![](https://www.r-pkg.org/badges/version/MendelianRandomization) | ![](https://www.r-pkg.org/badges/ago/MendelianRandomization) | ![](https://cranlogs.r-pkg.org/badges/MendelianRandomization)|
 | [MRZero](https://cran.r-project.org/web/packages/MRZero/index.html) | ![](https://www.r-pkg.org/badges/version/MRZero) | ![](https://www.r-pkg.org/badges/ago/MRZero) | ![](https://cranlogs.r-pkg.org/badges/MRZero)|
 | [coloc](https://cran.r-project.org/package=coloc) | ![](https://www.r-pkg.org/badges/version/coloc) | ![](https://www.r-pkg.org/badges/ago/coloc) | ![](https://cranlogs.r-pkg.org/badges/coloc)|
+| [PReMiuM](https://cran.r-project.org/package=PReMiuM) | ![](https://www.r-pkg.org/badges/version/PReMiuM) | ![](https://www.r-pkg.org/badges/ago/PReMiuM) | ![](https://cranlogs.r-pkg.org/badges/PReMiuM)|
 | [bcrm](https://cran.r-project.org/package=bcrm) | ![](https://www.r-pkg.org/badges/version/bcrm) | ![](https://www.r-pkg.org/badges/ago/bcrm) | ![](https://cranlogs.r-pkg.org/badges/bcrm)|
 | [crmPack](https://cran.r-project.org/package=crmPack) | ![](https://www.r-pkg.org/badges/version/crmPack) | ![](https://www.r-pkg.org/badges/ago/crmPack) | ![](https://cranlogs.r-pkg.org/badges/crmPack)|
 | [curtailment](https://cran.r-project.org/package=curtailment) | ![](https://www.r-pkg.org/badges/version/curtailment) | ![](https://www.r-pkg.org/badges/ago/curtailment) | ![](https://cranlogs.r-pkg.org/badges/curtailment)|
+| [batchmix](https://cran.r-project.org/package=batchmix) | ![](https://www.r-pkg.org/badges/version/batchmix) | ![](https://www.r-pkg.org/badges/ago/batchmix) | ![](https://cranlogs.r-pkg.org/badges/batchmix)|
 
 <!--
 
